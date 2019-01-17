@@ -219,4 +219,20 @@ Brian
   - different controller configurations
   - minimal physical movement
 
-g
+---
+
+class: center, middle
+
+# Questions?
+
+---
+# Thank you
+
+## Follow
+- [@datavized](http://twitter.com/datavized)
+
+## Work
+- [datavized.com](http://datavized.com)
+
+## Code
+- [github.com/datavized](http://github.com/datavized)
