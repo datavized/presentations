@@ -32,3 +32,8 @@ div.remark-slide-content > ul > li > ul > li {
 a, a:visited {
 	color: #d7d7d7;
 }
+
+.right-image {
+	float: right;
+	max-width: 40%;
+}
