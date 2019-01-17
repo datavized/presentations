@@ -50,7 +50,8 @@ class: center, middle
 --
 ...ish?
 
-??? Debra
+???
+Debra
 
 ---
 
@@ -152,7 +153,8 @@ Brian
 
 https://glitch.com/~aframe
 
-??? Brian
+???
+Brian
 
 ---
 # Coding with A-Frame
@@ -168,7 +170,8 @@ https://glitch.com/~aframe
 ```
 [Live Demo](https://aframe.glitch.me/)
 
-??? Brian
+???
+Brian
 
 See more resources on A-Frame website
 - Primitives
@@ -186,7 +189,8 @@ See more resources on A-Frame website
 - Cinematic (Within)
 - Health/Wellness (Composure,Prelude)
 
-??? Debra
+???
+Debra
 
 ---
 # Advanced Concepts
@@ -215,3 +219,4 @@ Brian
   - different controller configurations
   - minimal physical movement
 
+g
