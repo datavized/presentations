@@ -44,11 +44,7 @@ class: center, middle
 # What is WebXR
 
 - It’s a web page, it’s VR on the web
-
---
-- ...and AR, coming soon
---
-...ish?
+- ...and AR, coming soon...ish?
 
 ???
 Debra
@@ -58,6 +54,19 @@ Debra
 # Why XR on the web?
 
 - Largest platform, everyone has access
+
+???
+Debra
+
+Open web:
+- No reliance on one company
+- Support from all major browser vendors (except apple/safari, but cardboard polyfill)
+- App stores delete apps for censorship or anti-competitive reasons
+- Note that Unity just killed support for Improbable due to license disagreement
+
+Failure resistance:
+- support for all major VR headsets (except playstation)
+- fallback to screen
 
 --
 - Built on the open web, open ecosystem
@@ -74,38 +83,10 @@ Debra
 --
 - Failure resistance
 
-???
-Debra
-
-Open web:
-- No reliance on one company
-- Support from all major browser vendors (except apple/safari, but cardboard polyfill)
-- App stores delete apps for censorship or anti-competitive reasons
-- Note that Unity just killed support for Improbable due to license disagreement
-
-Failure resistance:
-- support for all major VR headsets (except playstation)
-- fallback to screen
-
 ---
 # Tech Stack
 
 - Existing web tech: HTML, CSS, JS
-
---
-- WebGL for 3D graphics
-
---
-- Web Audio API
-
---
-- WebVR/WebXR API
-
---
-- Polyfills
-
---
-- JS libraries
 
 ???
 Brian
@@ -122,6 +103,21 @@ Brian
 - Polyfill:
   - WebVR/WebXR Polyfill for Cardboard support
   - Marker-based AR, hardware support in progress
+
+--
+- WebGL for 3D graphics
+
+--
+- Web Audio API
+
+--
+- WebVR/WebXR API
+
+--
+- Polyfills
+
+--
+- JS libraries
 
 ---
 # Community
@@ -201,14 +197,6 @@ Debra
 # Advanced Concepts
 
 - Scaling Performance
-
---
-- Screen-first experiences
-
---
-- Accessibility
-
-
 ???
 Brian
 - Performance:
@@ -223,6 +211,13 @@ Brian
   - readable text
   - different controller configurations
   - minimal physical movement
+
+--
+- Screen-first experiences
+
+--
+- Accessibility
+
 
 ---
 
