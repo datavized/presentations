@@ -9,6 +9,11 @@ class: center, middle
 
 ## Datavized
 
+- Immersive and Audio Web
+- Brooklyn, NYC
+- [datavized.com](https://datavized.com)
+- [@datavized](https://twitter.com/datavized)
+
 ---
 
 # Debra Anderson
