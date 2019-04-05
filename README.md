@@ -17,6 +17,5 @@
 ## WebXR Storytelling with A-Frame at CUNY
 
 - [WebXR Storytelling with A-Frame at CUNY](https://www.eventbrite.com/e/intro-to-webxr-storytelling-with-a-frame-workshop-tickets-59112343611)
-  - [MIT Reality Virtually Hackathon 2019](https://realityvirtuallyhack.com/)
   - Debra Anderson, Brian Chirls, Hugh McGrory
   - April 5, 2019
