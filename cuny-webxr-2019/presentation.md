@@ -289,6 +289,15 @@ Link Traversal
 Debra
 
 ---
+
+# Storytelling
+
+- Scene by Scene
+- Who Am I?
+- Sound: Music, Narration, Effects
+- Navigation: Gesture, Voice, Gaze
+
+---
 # Pro Tips
 
 - Publishing Your A-Frame Project
