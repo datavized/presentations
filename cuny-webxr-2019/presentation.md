@@ -195,6 +195,7 @@ Entity-Component Structure
 3D Entities Using Primitives
 
 ???
+
 Debra/Brian
 
 See more resources on A-Frame website
@@ -242,7 +243,7 @@ Primitives and Animation
 360 Image / Video Gallery
 - [http://donutprototype.glitch.me/](https://glitch.com/~donutprototype)
 - [https://360videosphere-demo.glitch.me/](https://glitch.com/~360videosphere-demo)
-- [https://360video-demo.glitch.me/]https://glitch.com/~360video-demo)
+- [https://360video-demo.glitch.me/](https://glitch.com/~360video-demo)
 
 Particle Animation
 - [https://tan-lizard.glitch.me/](https://tan-lizard.glitch.me/)
