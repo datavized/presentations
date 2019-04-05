@@ -41,6 +41,19 @@ class: center, middle
 
 ---
 
+# Hugh McGrory
+
+.right-image[![Debra](../images/hugh.jpg)]
+
+## CEO, Datavized
+
+- [@mcgrory](https://twitter.com/mcgrory)
+- creates tools, leads teams (TwoTone, Morph, Airfield, Geometric)
+- Journalism360 Challenge grant winner
+- previously ran film & animation studio in Ireland
+
+---
+
 # What is WebXR
 
 - It’s a web page, it’s VR on the web
@@ -130,9 +143,16 @@ Brian
 - W3C
 
 ---
-class: center, middle
 
-# Demos
+# WebVR & A-Frame Demos
+
+- Take out your Cardboards!
+- [Bear71](https://bear71vr.nfb.ca/)
+- [DanceTonight](https://tonite.dance/)
+- [Immersive2030](https://immersive2030.datavized.com/) 6th in Global WebXR Competition
+- [There's Something in the Air](https://demo.datavized.com/somethingintheair/) UN Environment  
+- [AP Nimrud's Riches](http://interactives.ap.org/2016/nimrud-destroyed/) 
+- [How AP Made its firs WebVR Experience](https://medium.com/@njgriffiths/how-ap-made-its-first-webvr-experience-f3799d9f8c15)
 
 ---
 # Practical Tools
@@ -150,29 +170,32 @@ class: center, middle
 - A-Frame Inspector, A-Frame Repository
 
 ---
-# Glitch Set-Up
+# Glitch & Codesandbox Set-Up
 
-https://glitch.com/~aframe
+- https://glitch.com/~aframe
+- https://codesandbox.io/s/qlwy02rxnq
 
 ???
-Brian
+Debra/Brian
 
 ---
 # Coding with A-Frame
 
 ```HTML
 <a-scene>
-	<a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
-	<a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
-	<a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
-	<a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
-	<a-sky color="#ECECEC"></a-sky>
+  <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
+  <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
+  <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
+  <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+  <a-sky color="#ECECEC"></a-sky>
 </a-scene>
 ```
 [Live Demo](https://aframe.glitch.me/)
+Entity-Component Structure
+3D Entities Using Primitives
 
 ???
-Brian
+Debra/Brian
 
 See more resources on A-Frame website
 - Primitives
@@ -181,14 +204,82 @@ See more resources on A-Frame website
 - Interactions (with controllers and gaze)
 
 ---
+# A-Frame Demos
+To access go to: [https://glitch.com/@debraeanderson](https://glitch.com/@debraeanderson)
+
+Building a Basic Scene
+- [https://glitch.com/~webvr-basicscene](https://glitch.com/~webvr-basicscene)
+- [https://glitch.com/~a-frame-basic-scene](https://glitch.com/~a-frame-basic-scene)
+
+Custom Environment Component
+- [https://glitch.com/~basic-scene-with-environment-component](https://glitch.com/~basic-scene-with-environment-component)
+
+360 Image & Video 
+- [https://360image-demo.glitch.me/](https://glitch.com/~360image-demo)
+- [https://360videosphere-demo.glitch.me/](https://glitch.com/~360videosphere-demo)
+- [https://360video-demo.glitch.me/]https://glitch.com/~360video-demo)
+
+Animation
+- [https://animation-aframe.glitch.me/](https://glitch.com/~animation-aframe)
+- [https://glitch.com/~aframe-09](https://glitch.com/~aframe-09)
+Obj Model (A)
+- [https://objmodel-demo.glitch.me/](https://glitch.com/~objmodel-demo)
+
+Link Traversal
+- [https://glitch.com/~goal5-genderequality](https://glitch.com/~goal5-genderequality)
+
+???
+Debra/Brian
+
+---
+
+# A-Frame Demos Part 2  
+Selection of Parsons WebXR Student Work / Rapid Prototyping
+
+Primitives and Animation
+- [https://glitch.com/~lava-page](https://glitch.com/~lava-page)
+
+360 Image / Video Gallery
+- [http://donutprototype.glitch.me/](https://glitch.com/~donutprototype)
+- [https://360videosphere-demo.glitch.me/](https://glitch.com/~360videosphere-demo)
+- [https://360video-demo.glitch.me/]https://glitch.com/~360video-demo)
+
+Particle Animation
+- [https://tan-lizard.glitch.me/](https://tan-lizard.glitch.me/)
+- [https://plastic-dietician.glitch.me/](https://glitch.com/~plastic-dietician)
+- [https://www.npmjs.com/package/aframe-particle-system-component]( https://www.npmjs.com/package/aframe-particle-system-component)
+- [https://glitch.com/~aframe-09](https://glitch.com/~aframe-09)
+
+Animation and Sound
+- [https://b0x-sc3n3.glitch.me/](https://glitch.com/~b0x-sc3n3)
+- [https://week-3-vr-hw.glitch.me/](https://glitch.com/~week-3-vr-hw)
+
+Data Visualization
+- [https://glitch.com/~great-walks](https://glitch.com/~great-walks)
+- [https://glitch.com/~week8homework](https://glitch.com/~week8homework)
+- [https://wvascene2.glitch.me](https://wvascene2.glitch.me) 
+- [https://donut-index.glitch.me/](https://donut-index.glitch.me/)
+- [https://enviroment1.glitch.me/](https://enviroment1.glitch.me/)
+- [https://enviroment2.glitch.me/]( https://enviroment2.glitch.me/)
+Data Sonification
+- [https://glitch.com/~mars-weather-report](https://glitch.com/~mars-weather-report)
+
+Link Traversal
+- [https://cheitlin-geometric-twotone.glitch.me/](https://cheitlin-geometric-twotone.glitch.me/)
+
+???
+
+Debra 
+
+---
 # WebXR Use Cases
 
-- Real Estate / Architecture
-- Data Visualization
+- Real Estate / Architecture (Matterport, IrisVR)
+- Data Visualization (Geometric, Virtualitics)
 - E-Commerce (Shopify)
 - Social/Meetings (Mozilla Spokes, JanusVR, Altspace)
 - Cinematic (Within)
-- Health/Wellness (Composure,Prelude)
+- Health/Wellness (Composure)
 
 ???
 Debra
@@ -197,7 +288,9 @@ Debra
 # Advanced Concepts
 
 - Scaling Performance
+
 ???
+
 Brian
 - Performance:
   - Mobile to Desktop
