@@ -16,6 +16,7 @@
 
 ## WebXR Storytelling with A-Frame at CUNY
 
-- [WebXR Storytelling with A-Frame at CUNY](https://www.eventbrite.com/e/intro-to-webxr-storytelling-with-a-frame-workshop-tickets-59112343611)
+- [WebXR Storytelling with A-Frame](https://datavized.github.io/presentations/cuny-webxr-2019)
+  - [Intro to WebXR Storytelling with A-Frame Workshop](https://www.eventbrite.com/e/intro-to-webxr-storytelling-with-a-frame-workshop-tickets-59112343611)
   - Debra Anderson, Brian Chirls, Hugh McGrory
   - April 5, 2019
