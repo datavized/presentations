@@ -1,0 +1,26 @@
+!DOCTYPE html>
+<html>
+	<head>
+		<title>Datavized - WebXR Storytelling with A-Frame</title>
+		<meta charset="utf-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE-edge"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+		<link rel="stylesheet" type="text/css" href="../css/index.css"/>
+	</head>
+	<body>
+		<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+		<script>
+		if (!window.remark) {
+			document.write('<script ' + 'src="../js/remark-latest.min.js"><' + '/script>');
+		}
+		</script>
+		<script src="../js/fullscreen.js"></script>
+		<script>
+			remark.create({
+				ratio: '16:9',
+				sourceUrl: 'presentation-cuny.md'
+			});
+		</script>
+	</body>
+</html>
