@@ -170,15 +170,6 @@ Brian
 - A-Frame Inspector, A-Frame Repository
 
 ---
-# Glitch & Codesandbox Set-Up
-
-- https://glitch.com/~aframe
-- https://codesandbox.io/s/qlwy02rxnq
-
-???
-Debra/Brian
-
----
 # Coding with A-Frame
 
 ```HTML
@@ -190,9 +181,9 @@ Debra/Brian
   <a-sky color="#ECECEC"></a-sky>
 </a-scene>
 ```
-[Live Demo](https://aframe.glitch.me/)
-Entity-Component Structure
-3D Entities Using Primitives
+[Live Demo](https://codesandbox.io/s/qv2rj02o6)
+- Entity-Component Structure
+- 3D Entities Using Primitives
 
 ???
 
@@ -203,6 +194,31 @@ See more resources on A-Frame website
 - Animations
 - 3D Models
 - Interactions (with controllers and gaze)
+
+---
+# Code Workshop Set-Up
+
+- [A-Frame Starter Template](https://codesandbox.io/s/qlwy02rxnq)
+  - https://bit.ly/2YTq1F1
+- [A-Frame Documentation](https://aframe.io/docs/0.9.0/introduction/)
+  - https://aframe.io/docs/0.9.0/introduction/
+
+???
+
+Debra/Brian
+
+---
+# Code Workshop Complete Examples
+
+- [Primitive Objects](https://codesandbox.io/s/qv2rj02o6)
+- [GLTF Model](https://codesandbox.io/s/54ko33o26l)
+- [360 Image](https://codesandbox.io/s/k5or3v0ll7)
+- [360 Video](https://codesandbox.io/s/ymyro0kj69)
+- [Animation](https://codesandbox.io/s/oj8w5x525)
+
+???
+
+Debra/Brian
 
 ---
 # A-Frame Demos
@@ -270,7 +286,31 @@ Link Traversal
 
 ???
 
-Debra 
+Debra
+
+---
+# Pro Tips
+
+- Publishing Your A-Frame Project
+- Building Components with - JavaScript
+- 3D Model Making & Data Visualization Tools
+- Augmented Reality (WebAR)
+- Social VR
+
+---
+# Group Exercise
+
+- A-Frame Brainstorm
+- Project Ideas & Group Share
+
+---
+
+# What’s Next for WebXR and WebXR API?
+
+- A-Frame Community / Slack / Meetup
+- W3C Workshops
+- Firefox Reality
+- Supermedium 
 
 ---
 # WebXR Use Cases
