@@ -221,29 +221,18 @@ Debra/Brian
 Debra/Brian
 
 ---
-# A-Frame Demos
-To access go to: [https://glitch.com/@debraeanderson](https://glitch.com/@debraeanderson)
+# A-Frame Demos Using Glitch
+To access all examples go to: [https://glitch.com/@debraeanderson](https://glitch.com/@debraeanderson)
 
-Building a Basic Scene
-- [https://glitch.com/~webvr-basicscene](https://glitch.com/~webvr-basicscene)
-- [https://glitch.com/~a-frame-basic-scene](https://glitch.com/~a-frame-basic-scene)
-
-Custom Environment Component
-- [https://glitch.com/~basic-scene-with-environment-component](https://glitch.com/~basic-scene-with-environment-component)
-
-360 Image & Video 
-- [https://360image-demo.glitch.me/](https://glitch.com/~360image-demo)
-- [https://360videosphere-demo.glitch.me/](https://glitch.com/~360videosphere-demo)
-- [https://360video-demo.glitch.me/]https://glitch.com/~360video-demo)
-
-Animation
-- [https://animation-aframe.glitch.me/](https://glitch.com/~animation-aframe)
-- [https://glitch.com/~aframe-09](https://glitch.com/~aframe-09)
-Obj Model (A)
-- [https://objmodel-demo.glitch.me/](https://glitch.com/~objmodel-demo)
-
-Link Traversal
-- [https://glitch.com/~goal5-genderequality](https://glitch.com/~goal5-genderequality)
+- [Building a Basic Scence](https://glitch.com/~webvr-basicscene)
+- [Custom Environment Componentl](https://glitch.com/~basic-scene-with-environment-component)
+- [360 Image](https://glitch.com/~360image-demo)
+- [360 Video](https://glitch.com/~360videosphere-demo), [360 Video - 2D Plane](https://glitch.com/~360video-demo)
+- [Animation](https://glitch.com/~aframe-09)
+- [Obj Model](https://glitch.com/~objmodel-demo), [Obj Model Animation](https://glitch.com/~animation-aframe)
+- [Link Traversal](https://glitch.com/~goal5-genderequality)
+- [Spatialized Audio](https://glitch.com/~mars-weather-report)
+ 
 
 ???
 Debra/Brian
@@ -253,36 +242,13 @@ Debra/Brian
 # A-Frame Demos Part 2  
 Selection of Parsons WebXR Student Work / Rapid Prototyping
 
-Primitives and Animation
-- [https://glitch.com/~lava-page](https://glitch.com/~lava-page)
-
-360 Image / Video Gallery
-- [http://donutprototype.glitch.me/](https://glitch.com/~donutprototype)
-- [https://360videosphere-demo.glitch.me/](https://glitch.com/~360videosphere-demo)
-- [https://360video-demo.glitch.me/](https://glitch.com/~360video-demo)
-
-Particle Animation
-- [https://tan-lizard.glitch.me/](https://tan-lizard.glitch.me/)
-- [https://plastic-dietician.glitch.me/](https://glitch.com/~plastic-dietician)
-- [https://www.npmjs.com/package/aframe-particle-system-component]( https://www.npmjs.com/package/aframe-particle-system-component)
-- [https://glitch.com/~aframe-09](https://glitch.com/~aframe-09)
-
-Animation and Sound
-- [https://b0x-sc3n3.glitch.me/](https://glitch.com/~b0x-sc3n3)
-- [https://week-3-vr-hw.glitch.me/](https://glitch.com/~week-3-vr-hw)
-
-Data Visualization
-- [https://glitch.com/~great-walks](https://glitch.com/~great-walks)
-- [https://glitch.com/~week8homework](https://glitch.com/~week8homework)
-- [https://wvascene2.glitch.me](https://wvascene2.glitch.me) 
-- [https://donut-index.glitch.me/](https://donut-index.glitch.me/)
-- [https://enviroment1.glitch.me/](https://enviroment1.glitch.me/)
-- [https://enviroment2.glitch.me/]( https://enviroment2.glitch.me/)
-Data Sonification
-- [https://glitch.com/~mars-weather-report](https://glitch.com/~mars-weather-report)
-
-Link Traversal
-- [https://cheitlin-geometric-twotone.glitch.me/](https://cheitlin-geometric-twotone.glitch.me/)
+- [Primitives and Animation](https://glitch.com/~lava-page)
+- [360 Image/Video](https://glitch.com/~donutprototype)
+- [Particle Animation 1](https://tan-lizard.glitch.me), [2](https://glitch.com/~plastic-dietician)
+- [Animation/Spatialized Sound 1](https://glitch.com/~b0x-sc3n3), [2](https://glitch.com/~week-3-vr-hw)
+- [Link Traversal](https://glitch.com/~hw-march13)
+- [Data Visualization 1](https://glitch.com/~great-walks), [2](https://glitch.com/~week8homework), [3](https://glitch.com/~donut-index), [4](https://glitch.com/~wvascene2), [5](https://glitch.com/~enviroment1), [6](https://glitch.com/~enviroment2) 
+  
 
 ???
 
